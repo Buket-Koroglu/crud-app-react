@@ -5,5 +5,5 @@
 * A form for updating an existing course.
 * A delete button for deleting a course.
 
-npm install
-npm start
+* npm install
+* npm start
